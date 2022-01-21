@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**aaronbatey/aaronbatey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/64212752/150612292-134b36a4-8192-48f0-9e9e-a2422040b19f.png" align="center" alt="">
+  <br /> 
+  <h3>Howdy 👋 </h3>
+  My name is Aaron. (he/they) ♎ <br />
+  I'm a full stack developer at <a href="https://www.prodigygame.com/main-en/">Prodigy Education</a>.<br />
+  When I'm not coding, I'm creating. 🎨<br />
+</div>
+<hr>
+🕸️ <a href="https://www.aaronbatey.com/">aaronbatey.com</a><br />
+📧 <a href="mailto:aaron@aaronbatey.com">aaron@aaronbatey.com</a><br />
+🔗 <a href="https://www.linkedin.com/in/aaronbatey/">linkedin</a>
